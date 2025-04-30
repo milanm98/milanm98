@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Milan Marjanov
-- 👀 I’m interested in developing web apps and python scripting
-- 🌱 I’m currently learning React/Redux
-- 💞️ I’m looking to collaborate on React web projects
+- 👀 I’m interested in developing web apps
+- 💞️ I’m looking to collaborate on React/Next web projects
 - 📫 How to reach me - marjanovmilan12@gmail.com
 
 <!---
